@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap');
+
+p{
+    font-size: 2rem;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bolder;
+    padding: 0 1rem;
+}
+.button{
+    width: 80vw;
+    color: black;
+
+    &:hover{
+        color: rgb(255, 255, 255);
+        box-shadow: inset 2px 2px 10px -5px rgba(0, 0, 0, 0.382);
+    }
+}
