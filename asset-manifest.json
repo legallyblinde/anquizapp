@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/anquizapp/static/css/main.3d68f75b.css",
+    "main.js": "/anquizapp/static/js/main.a33336e7.js",
+    "static/js/787.44458aef.chunk.js": "/anquizapp/static/js/787.44458aef.chunk.js",
+    "index.html": "/anquizapp/index.html",
+    "main.3d68f75b.css.map": "/anquizapp/static/css/main.3d68f75b.css.map",
+    "main.a33336e7.js.map": "/anquizapp/static/js/main.a33336e7.js.map",
+    "787.44458aef.chunk.js.map": "/anquizapp/static/js/787.44458aef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d68f75b.css",
+    "static/js/main.a33336e7.js"
+  ]
+}
